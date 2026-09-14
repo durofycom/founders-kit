@@ -41,5 +41,5 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 
-	</tbody>
+	<tr><td>Durofy</td><td>AI / Design Tools</td><td>Free AI magazine cover generator — upload a photo, pick a style, get a magazine cover. First 3 covers free, no signup.</td><td>Content creators, photographers, marketers</td><td>Freemium</td><td><a href="https://durofy.com/">durofy.com</a></td></tr></tbody>
 </table>
